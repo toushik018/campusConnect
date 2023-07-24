@@ -1,0 +1,59 @@
+const collegeData = [
+    {
+      "collegeId": 1,
+      "collegeImage": "https://i.ibb.co/93kkCDt/photo-1607237138185-eedd9c632b0b.jpg",
+      "collegeName": "Central University of Technology",
+      "admissionDates": "October 1, 2023",
+      "events": ["Annual Cultural Fest", "Sports Week"],
+      "researchHistory": "Pioneering research in Engineering and Technology",
+      "sports": ["Football", "Basketball", "Athletics"],
+      "about": "Central University of Technology is a leading institution in the field of engineering and technology...",
+      "admissionProcess": "To apply for admission to Central University of Technology, candidates must fill...",
+      "facilities": [
+        "State-of-the-art laboratories",
+        "Modern sports complex",
+        "Library with vast collections"
+      ],
+      "location": "City ABC, Country XYZ",
+      "website": "https://www.cut.ac.za"
+    },
+    {
+      "collegeId": 2,
+      "collegeImage": "https://i.ibb.co/485zz91/architecture-independence-palace-ho-chi-minh-city-1.jpg",
+      "collegeName": "National Institute of Science",
+      "admissionDates": "September 15, 2023",
+      "events": ["Science Expo", "Debate Competition"],
+      "researchHistory": "Groundbreaking discoveries in Biological Sciences",
+      "sports": ["Cricket", "Swimming", "Table Tennis"],
+      "about": "National Institute of Science is a premier institution known for its excellence in the field of biological sciences...",
+      "admissionProcess": "Candidates seeking admission to National Institute of Science must apply through...",
+      "facilities": [
+        "Advanced research laboratories",
+        "Olympic-size swimming pool",
+        "Botanical garden"
+      ],
+      "location": "City XYZ, Country ABC",
+      "website": "https://www.nis.edu"
+    },
+    {
+      "collegeId": 3,
+      "collegeImage": "https://i.ibb.co/485zz91/architecture-independence-palace-ho-chi-minh-city-1.jpg",
+      "collegeName": "International School of Arts",
+      "admissionDates": "August 30, 2023",
+      "events": ["Art Exhibition", "Literary Festival"],
+      "researchHistory": "Innovative practices in Fine Arts and Design",
+      "sports": ["Volleyball", "Badminton", "Chess"],
+      "about": "International School of Arts is renowned for its diverse creative programs in fine arts and design...",
+      "admissionProcess": "Prospective students can apply to International School of Arts through an online application...",
+      "facilities": [
+        "Studios for various art forms",
+        "Art gallery for exhibitions",
+        "Design labs with modern equipment"
+      ],
+      "location": "City XYZ, Country PQR",
+      "website": "https://www.isa.edu"
+    }
+  ];
+  
+  export default collegeData;
+  
